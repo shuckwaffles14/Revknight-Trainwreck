@@ -16,7 +16,7 @@ public class pauseMenu : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        gmbPauseMenu.SetActive(false);
+        gmbPauseMenu.SetActive(false); //effective at the start of the level
         gmbOptions.SetActive(false);
         gmbExit.SetActive(false);
         onMainMenu = false;
@@ -25,7 +25,7 @@ public class pauseMenu : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Escape) && !onMainMenu)
+        if(Input.GetKeyDown(KeyCode.Escape) && !onMainMenu) //only opens when Esc is clicked
         {
             gmbPauseMenu.SetActive(true);
             StartCoroutine(pauseDelay());
@@ -79,7 +79,7 @@ public class pauseMenu : MonoBehaviour
     public void MainMenu()
     {
         SceneManager.LoadScene("mainMenu");
-        SceneManager.UnloadSceneAsync("SampleScene");
+        SceneManager.UnloadSceneAsync("levelOne");
     }
 
     public void QuittingofGame()

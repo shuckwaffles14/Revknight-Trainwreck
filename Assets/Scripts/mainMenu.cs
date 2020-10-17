@@ -32,7 +32,7 @@ public class mainMenu : MonoBehaviour
 
     public void Play()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("levelOne");
         SceneManager.UnloadSceneAsync("mainMenu");
     }
     #endregion
