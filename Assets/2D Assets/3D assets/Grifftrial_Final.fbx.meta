@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: a9f688712ea704173ace3803113e322d
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 28
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: QR_liam_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QR_liam_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Rigged_character (1)(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body5
+      parentName: Rigged_character (1)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Reference
+      parentName: Rigged_character (1)(Clone)
+      position: {x: -0, y: 0, z: -0.00000000834465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Hips
+      parentName: QR_liam_Reference
+      position: {x: 0.000000003259629, y: 0.6397057, z: -0.0041151056}
+      rotation: {x: 0.49904025, y: -0.50095797, z: -0.49904025, w: 0.50095797}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_LeftUpLeg
+      parentName: QR_liam_Hips
+      position: {x: 0.02747892, y: 0.0011452786, z: 0.089614615}
+      rotation: {x: -0.0075781504, y: -0.0042024255, z: 0.99990773, w: 0.01046089}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_LeftLeg
+      parentName: QR_liam_LeftUpLeg
+      position: {x: -0.24223728, y: -0.0000470853, z: -0.0000007633373}
+      rotation: {x: 0.0021998622, y: -0.000006136686, z: -0.0008932848, w: 0.9999972}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_LeftFoot
+      parentName: QR_liam_LeftLeg
+      position: {x: -0.28637782, y: -0.000000011326044, z: 0.000000020242611}
+      rotation: {x: -0.002484709, y: -0.006969495, z: 0.5238131, w: 0.85180104}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_LeftToeBase
+      parentName: QR_liam_LeftFoot
+      position: {x: -0.14306188, y: 0.00000002472224, z: 0.00000008118541}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_RightUpLeg
+      parentName: QR_liam_Hips
+      position: {x: 0.02747892, y: 0.0011452786, z: -0.089614615}
+      rotation: {x: -0.0041230433, y: 0.016517026, z: -0.012675134, w: 0.99977475}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_RightLeg
+      parentName: QR_liam_RightUpLeg
+      position: {x: 0.24223712, y: 0.000008965016, z: 0.00000019402874}
+      rotation: {x: 0.002186769, y: -0.0000013431379, z: -0.00095704076, w: 0.9999972}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_RightFoot
+      parentName: QR_liam_RightLeg
+      position: {x: 0.2863781, y: 0.000000032238738, z: 0.000000010761421}
+      rotation: {x: -0.0071303844, y: -0.014607778, z: 0.52571094, w: 0.850508}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_RightToeBase
+      parentName: QR_liam_RightFoot
+      position: {x: 0.14306182, y: -0.000000011401238, z: 0.000000003954374}
+      rotation: {x: 0.00002540713, y: 0.000000046583626, z: -1.1835563e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Spine
+      parentName: QR_liam_Hips
+      position: {x: -0.08870041, y: 4.816739e-11, z: 0}
+      rotation: {x: 0, y: 0, z: 0.035977844, w: 0.9993526}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Spine1
+      parentName: QR_liam_Spine
+      position: {x: -0.07114031, y: 0.000000010232505, z: 0}
+      rotation: {x: 0, y: 0, z: 0.0028261843, w: 0.999996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Spine2
+      parentName: QR_liam_Spine1
+      position: {x: -0.08442647, y: -0.000000005785968, z: -7.771561e-18}
+      rotation: {x: 0, y: 0, z: 0.018572774, w: 0.99982756}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_LeftShoulder
+      parentName: QR_liam_Spine2
+      position: {x: -0.11108357, y: -0.007747938, z: 0.06908764}
+      rotation: {x: -0.48330835, y: 0.5161522, z: 0.48330835, w: 0.5161522}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_LeftArm
+      parentName: QR_liam_LeftShoulder
+      position: {x: -0.103631444, y: -2.4868996e-16, z: -7.771561e-18}
+      rotation: {x: 0.70743805, y: 0.026579672, z: 0.025416309, w: 0.70581794}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_LeftForeArm
+      parentName: QR_liam_LeftArm
+      position: {x: -0.22259848, y: -0.00000027222075, z: -0.00000010994612}
+      rotation: {x: 0, y: -0, z: -0.019252736, w: 0.9998146}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_LeftHand
+      parentName: QR_liam_LeftForeArm
+      position: {x: -0.17100973, y: -0.000000041593985, z: 0.0000000072883455}
+      rotation: {x: 0, y: 0, z: 0.0000016308143, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_RightShoulder
+      parentName: QR_liam_Spine2
+      position: {x: -0.11108357, y: -0.007747938, z: -0.06908764}
+      rotation: {x: 0.5161522, y: 0.48330835, z: -0.5161522, w: 0.48330835}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_RightArm
+      parentName: QR_liam_RightShoulder
+      position: {x: 0.103631444, y: 0.00000006688444, z: -6.3619915e-10}
+      rotation: {x: 0.70710903, y: 0.027304938, z: 0.027172966, w: 0.70605445}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_RightForeArm
+      parentName: QR_liam_RightArm
+      position: {x: 0.22259825, y: 0.00000032763975, z: 0.00000016981944}
+      rotation: {x: -4.2170194e-11, y: -0.0000007059934, z: -0.000059731716, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_RightHand
+      parentName: QR_liam_RightForeArm
+      position: {x: 0.17100948, y: 0.0000000073496937, z: -0.000000097036754}
+      rotation: {x: -1.8811398e-12, y: 0.0000011961456, z: 0.0000015726679, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Neck
+      parentName: QR_liam_Spine2
+      position: {x: -0.17851534, y: 0.00000007188207, z: 1.5543122e-17}
+      rotation: {x: 0, y: -0, z: -0.02410904, w: 0.99970937}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Head
+      parentName: QR_liam_Neck
+      position: {x: -0.19909602, y: -0.000000080907114, z: -7.771561e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_Reference
+      parentName: Rigged_character (1)(Clone)
+      position: {x: -0, y: 0, z: -0.00000000834465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_HipsEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: -0.047539297, y: 0.6122314, z: -0.002864443}
+      rotation: {x: 3.061617e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_LeftAnkleEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: -0.14511143, y: 0.083762094, z: -0.012394235}
+      rotation: {x: 0.00000059325237, y: -0.00055549317, z: -0.00029411857, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_RightAnkleEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: 0.059473988, y: 0.08403844, z: -0.014847176}
+      rotation: {x: 0.00000038649878, y: 0.00052292336, z: 0.0002769064, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_LeftWristEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: -0.5516448, y: 0.88228154, z: -0.017751303}
+      rotation: {x: -0.0014781683, y: 0.022108156, z: 0.13576713, w: 0.990493}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_RightWristEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: 0.51065123, y: 0.8769347, z: -0.033187494}
+      rotation: {x: -0.0255771, y: -0.0029919273, z: -0.101622015, w: 0.9944897}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_LeftKneeEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: -0.14080295, y: 0.370058, z: -0.007056189}
+      rotation: {x: 0.00930534, y: -0.0020235465, z: -0.0075417142, w: 0.99992627}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_RightKneeEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: 0.050048593, y: 0.37018567, z: -0.008279709}
+      rotation: {x: 0.011436203, y: 0.0019820514, z: 0.016482245, w: 0.9997968}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_LeftElbowEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: -0.3871068, y: 0.9282639, z: -0.025309969}
+      rotation: {x: -0.0014783407, y: 0.022109654, z: 0.13576743, w: 0.99049294}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_RightElbowEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: 0.3431766, y: 0.9114733, z: -0.035094664}
+      rotation: {x: -0.025577461, y: -0.0029934333, z: -0.101620875, w: 0.99448985}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_ChestOriginEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: -0.047539297, y: 0.71322286, z: -0.0044553075}
+      rotation: {x: -0.012938354, y: -8.1511525e-19, z: -6.4386116e-19, w: 0.9999163}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_ChestEndEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: -0.047539297, y: 0.97769165, z: -0.037550632}
+      rotation: {x: -0.026450528, y: -4.344134e-17, z: 1.4353836e-16, w: 0.9996501}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_LeftFootEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: -0.14529136, y: 0.016809905, z: 0.11403401}
+      rotation: {x: 0.00000059325237, y: -0.00055549317, z: -0.00029411857, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_RightFootEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: 0.05965389, y: 0.017086374, z: 0.11158093}
+      rotation: {x: 0.00000038649878, y: 0.00052292336, z: 0.0002769064, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_LeftShoulderEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: -0.17271906, y: 0.9881501, z: -0.026580406}
+      rotation: {x: 0.0011357815, y: 0.0030353596, z: 0.13577048, w: 0.99073505}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_RightShoulderEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: 0.12517978, y: 0.9564328, z: -0.03755063}
+      rotation: {x: -0.025571166, y: -0.0029333332, z: -0.10162264, w: 0.99449}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_HeadEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: -0, y: 1.2550108, z: -0.02675562}
+      rotation: {x: 3.061617e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_LeftHipEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: -0.13715391, y: 0.6122314, z: -0.002864443}
+      rotation: {x: 0.008543198, y: -0.0042169928, z: -0.007567882, w: 0.999926}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_RightHipEffector
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: 0.04207532, y: 0.6122314, z: -0.002864443}
+      rotation: {x: 0.011120226, y: 0.0041606994, z: 0.01650717, w: 0.99979323}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_Hips
+      parentName: QR_liam_Ctrl_Reference
+      position: {x: -0.047539297, y: 0.6397057, z: -0.0041151056}
+      rotation: {x: 3.061617e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_LeftUpLeg
+      parentName: QR_liam_Ctrl_Hips
+      position: {x: -0.089614615, y: -0.027474327, z: 0.0012506628}
+      rotation: {x: 0.008543198, y: -0.0042169923, z: -0.007567882, w: 0.999926}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_LeftLeg
+      parentName: QR_liam_Ctrl_LeftUpLeg
+      position: {x: -0, y: -0.24223714, z: 0}
+      rotation: {x: 0.0007455938, y: 0.0021992761, z: 0.0000042154074, w: 0.9999973}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_LeftFoot
+      parentName: QR_liam_Ctrl_LeftLeg
+      position: {x: -0, y: -0.2863779, z: 4.857226e-19}
+      rotation: {x: -0.009301151, y: 0.0014653613, z: 0.007252783, w: 0.99992937}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_LeftToeBase
+      parentName: QR_liam_Ctrl_LeftFoot
+      position: {x: -0.0000000834465, y: -0.06695197, z: 0.12642823}
+      rotation: {x: 2.2365468e-32, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_RightUpLeg
+      parentName: QR_liam_Ctrl_Hips
+      position: {x: 0.089614615, y: -0.027474327, z: 0.0012506628}
+      rotation: {x: 0.011120226, y: 0.0041606994, z: 0.01650717, w: 0.99979323}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_RightLeg
+      parentName: QR_liam_Ctrl_RightUpLeg
+      position: {x: 0.0000000166893, y: -0.24223714, z: 0.0000023696198}
+      rotation: {x: 0.00028001214, y: -0.0021837056, z: 0.00000056486675, w: 0.9999976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_RightFoot
+      parentName: QR_liam_Ctrl_RightLeg
+      position: {x: -0.00000000834465, y: -0.2863779, z: -4.857226e-19}
+      rotation: {x: -0.011427744, y: -0.0014560736, z: -0.016211372, w: 0.99980223}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_RightToeBase
+      parentName: QR_liam_Ctrl_RightFoot
+      position: {x: 0.000010597706, y: -0.06695197, z: 0.12642823}
+      rotation: {x: 2.2365468e-32, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_Spine
+      parentName: QR_liam_Ctrl_Hips
+      position: {x: -0, y: 0.08869976, z: -0.00034020148}
+      rotation: {x: -0.012938354, y: -8.1511525e-19, z: -6.4386116e-19, w: 0.9999163}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_Spine1
+      parentName: QR_liam_Ctrl_Spine
+      position: {x: -0, y: 0.07105163, z: -0.0035504964}
+      rotation: {x: -0.006757393, y: -3.9637014e-19, z: 4.1340494e-19, w: 0.9999772}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_Spine2
+      parentName: QR_liam_Ctrl_Spine1
+      position: {x: -0, y: 0.08435179, z: -0.0035504967}
+      rotation: {x: -0.0067574014, y: -4.5594923e-17, z: 5.921171e-17, w: 0.9999772}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_LeftShoulder
+      parentName: QR_liam_Ctrl_Spine2
+      position: {x: -0.069087625, y: 0.11033524, z: -0.015024106}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_LeftArm
+      parentName: QR_liam_Ctrl_LeftShoulder
+      position: {x: -0.103631444, y: 0, z: 0}
+      rotation: {x: 0.0011357815, y: 0.0030353596, z: 0.13577048, w: 0.99073505}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_LeftForeArm
+      parentName: QR_liam_Ctrl_LeftArm
+      position: {x: -0.22259822, y: 0, z: 0}
+      rotation: {x: 0.00000010791701, y: 0.019253222, z: 0.0000002486422, w: 0.9998146}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_LeftHand
+      parentName: QR_liam_Ctrl_LeftForeArm
+      position: {x: -0.17100962, y: 0, z: 0}
+      rotation: {x: -0.000000026120443, y: -0.0000015061736, z: -0.0000002891564,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_RightShoulder
+      parentName: QR_liam_Ctrl_Spine2
+      position: {x: 0.069087625, y: 0.11033524, z: -0.015024106}
+      rotation: {x: 0, y: -0, z: -1.0587912e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_RightArm
+      parentName: QR_liam_Ctrl_RightShoulder
+      position: {x: 0.103631444, y: -0.0000000667572, z: 0}
+      rotation: {x: 0.0007425687, y: -0.00024433446, z: -0.10166468, w: 0.99481845}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_RightForeArm
+      parentName: QR_liam_Ctrl_RightArm
+      position: {x: 0.22259822, y: 0, z: 0}
+      rotation: {x: -0.00000015456466, y: -0.00006045462, z: 0.0000002171122, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_RightHand
+      parentName: QR_liam_Ctrl_RightForeArm
+      position: {x: 0.17100962, y: 1.2434498e-16, z: -3.8857806e-18}
+      rotation: {x: 0.0000001992973, y: 0.0000015632013, z: -0.0000011080361, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_Neck
+      parentName: QR_liam_Ctrl_Spine2
+      position: {x: -0, y: 0.17813031, z: -0.011719941}
+      rotation: {x: -1.3877788e-16, y: -1.9402117e-18, z: 1.695474e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QR_liam_Ctrl_Head
+      parentName: QR_liam_Ctrl_Neck
+      position: {x: -0, y: 0.19906564, z: -0.0034793767}
+      rotation: {x: 3.061617e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 28
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
