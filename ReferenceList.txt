@@ -2,9 +2,13 @@ REFERENCE LIST:
 Animation References;
 Jumping: Mixamo. (2020). Retrieved from https://www.mixamo.com/#/?page=1&query=jump
 Walking: Mixamo. (2020). Retrieved from https://www.mixamo.com/#/?page=1&query=rifle
+Aiming: Mixamo. (2020). Retrieved from https://www.mixamo.com/#/?page=1&query=rifle+aim
 
 Asset Packs;
 Assault Rifle: Low Poly FPS Pack - Free (Sample) | 3D Weapons | Unity Asset Store. (2020). 
 	Retrieved from https://assetstore.unity.com/packages/3d/props/weapons/low-poly-fps-pack-free-sample-144839
 Test Character: Unity-Chan! Model | 3D Characters | Unity Asset Store. (2020). 
 	Retrieved from https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
+
+Images;
+Green crosshair | GameDev Market. (2020). Retrieved from https://www.gamedevmarket.net/asset/green-crosshair/
