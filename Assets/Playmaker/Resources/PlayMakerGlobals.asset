@@ -40,3 +40,5 @@ MonoBehaviour:
   events:
   - No Ammo
   - Reloaded
+  - Damage
+  - Die
