@@ -26,6 +26,12 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 0
+    - useVariable: 1
+      name: Total_Ammo
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     intVariables: []
     boolVariables: []
     stringVariables: []
@@ -42,7 +48,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000
+    variableCategoryIDs: 000000000000000000000000
   events:
   - No Ammo
   - Reloaded
