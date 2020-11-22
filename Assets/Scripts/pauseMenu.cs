@@ -7,7 +7,6 @@ using UnityEngine.UI;
 public class pauseMenu : MonoBehaviour
 {
     //panel variables 
-    public GameObject gmbOptions;
     public GameObject gmbExit;
     public GameObject gmbPauseMenu;
 
@@ -17,7 +16,6 @@ public class pauseMenu : MonoBehaviour
     void Start()
     {
         gmbPauseMenu.SetActive(false); //effective at the start of the level
-        gmbOptions.SetActive(false);
         gmbExit.SetActive(false);
         onMainMenu = false;
     }
@@ -35,7 +33,6 @@ public class pauseMenu : MonoBehaviour
         if(onMainMenu && Input.GetKeyDown(KeyCode.Escape))
         {
             gmbPauseMenu.SetActive(false);
-            gmbOptions.SetActive(false);
             gmbExit.SetActive(false);
             StartCoroutine(pauseDelay2());
             Time.timeScale = 1;
@@ -59,27 +56,19 @@ public class pauseMenu : MonoBehaviour
     {
         gmbPauseMenu.SetActive(true);
         gmbExit.SetActive(false);
-        gmbOptions.SetActive(false);
     }
 
     public void Close()
     {
         gmbExit.SetActive(true);
         gmbPauseMenu.SetActive(true);
-        gmbOptions.SetActive(false);
     }
 
-    public void Options()
-    {
-        gmbPauseMenu.SetActive(true);
-        gmbOptions.SetActive(true);
-        gmbExit.SetActive(false);
-    }
 
     public void MainMenu()
     {
         SceneManager.LoadScene("mainMenu");
-        SceneManager.UnloadSceneAsync("levelOne");
+        SceneManager.UnloadSceneAsync("testing");
     }
 
     public void QuittingofGame()
