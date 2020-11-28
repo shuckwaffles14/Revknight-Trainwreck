@@ -1860,8 +1860,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -21.13}
-  m_SizeDelta: {x: -12.81366, y: -223.17168}
+  m_AnchoredPosition: {x: -14.140015, y: -17.681}
+  m_SizeDelta: {x: 28.280823, y: -198.7297}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1947377311
 MonoBehaviour:
@@ -1893,7 +1893,12 @@ MonoBehaviour:
 
     Mouse Movement - Camera Movement
 
-    R - Reload Weapon'
+    R - Reload Weapon
+
+    E
+    - Pick up ammo
+
+    ESC - Game Pause'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
@@ -1938,7 +1943,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 160
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -1962,12 +1967,12 @@ MonoBehaviour:
   m_margin: {x: 1.0608826, y: 0, z: -1.7937012, w: 0.14804077}
   m_textInfo:
     textComponent: {fileID: 1947377311}
-    characterCount: 142
+    characterCount: 176
     spriteCount: 0
-    spaceCount: 25
-    wordCount: 29
+    spaceCount: 34
+    wordCount: 38
     linkCount: 0
-    lineCount: 6
+    lineCount: 8
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
